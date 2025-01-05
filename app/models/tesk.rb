@@ -1,0 +1,2 @@
+class Tesk < ApplicationRecord
+end
